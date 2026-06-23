@@ -1,0 +1,104 @@
+# סקווישי לנד — Generative Engine Optimization Map
+
+> GameGadgetX is an Israeli e-commerce store specializing in squishies of various shapes and designs. The brand aims for a modern and clean aesthetic with a blue and white color palette, and the site will be in Hebrew with RTL layout. The store targets squishy enthusiasts and collectors, offering a fun and visually appealing shopping experience.
+
+---
+
+## Pages
+
+### בית
+https://-67f16018.zappy5.app
+ברוכים הבאים לסקווישי לנד – החנות המובילה בישראל לסקווישי לקנייה אונליין. מאות צורות חמודות, מתנות מושלמות לילדים וחוויית אספנות צבעונית. היכנסו עכשיו וגלו את האוסף!
+
+### למה לבחור בנו
+https://-67f16018.zappy5.app/why-choose-us
+למה לבחור בנו? סקווישי לנד מציעה איכות ללא פשרות, משלוח מהיר ושירות אישי לכל חובב סקווישי. גלו את ההבדל שמביא אושר לכל לחיצה. כנסו ותתאהבו!
+
+### אודות המותג
+https://-67f16018.zappy5.app/about
+אודות המותג סקווישי לנד: אנחנו מעצבים שמחה בכל לחיצה עם אוסף סקווישי ייחודי. מהתשוקה לאספנות ועד לבית שלכם – הכירו את החזון שמביא צבע ואושר לכל ילד. בואו לגלות עוד!
+
+### צור קשר
+https://-67f16018.zappy5.app/contact
+יש שאלה על סקווישי לקנייה אונליין? צרו קשר עם צוות סקווישי לנד! אנחנו פה לעזור לכם לבחור את המתנה המתוקה הבאה. פנו אלינו היום ונתחיל ללחוץ ביחד!
+
+### Products
+https://-67f16018.zappy5.app/products
+המוצרים שלנו - סקווישי לנד
+
+### Cart
+https://-67f16018.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-67f16018.zappy5.app/checkout
+תשלום
+
+### Login
+https://-67f16018.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-67f16018.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-67f16018.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-67f16018.zappy5.app/product/:slug
+פרטי המוצר - סקווישי לנד
+
+### Category
+https://-67f16018.zappy5.app/category/:slug
+מוצרים - סקווישי לנד
+
+### תודה רבה - פנייתך התקבלה | סקווישי לנד
+https://-67f16018.zappy5.app/thank-you
+תודה רבה שפניתם לצוות סקווישי לנד. הודעתך התקבלה בהצלחה במערכת שלנו, ונחזור אליך בהקדם האפשרי. המשיכו ליהנות מהמגוון הגדול ביותר של סקווישי לקנייה אונליין.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-67f16018.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-67f16018.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-67f16018.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About סקווישי לנד
+GameGadgetX is an Israeli e-commerce store specializing in squishies of various shapes and designs. The brand aims for a modern and clean aesthetic with a blue and white color palette, and the site will be in Hebrew with RTL layout. The store targets squishy enthusiasts and collectors, offering a fun and visually appealing shopping experience.
+
+## Target Audience
+- אספנים צעירים
+- הורים קונים מתנות
+- חובבי קוואי
+
+## Industry
+E-commerce / Toys & Collectibles
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-67f16018.zappy5.app/sitemap.xml
+- Robots: https://-67f16018.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-67f16018.zappy5.app/llms-full.txt
+- Products (JSON): https://-67f16018.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-67f16018.zappy5.app/product-feed.xml
